@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person id='102' gender='male'>
+<Employee>
+	<Mobile_No>789456123</Mobile_No>
+	<Email>thrineshhk@gmail.com</Email>
+	<Name>
+		<FirstName>Thrinesh_HK</FirstName>
+		<Last_Name>HK</Last_Name>
+	</Name>
+	<age>25</age>
+	<salary>&lt;1000</salary>
+</Employee>
+</person>
